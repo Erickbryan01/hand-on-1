@@ -72,6 +72,6 @@
 }
 @media (max-width: 1100px) {
     body {
-        background-position-x: 300px !important;
+        background-size: 550px;
     }
 }
