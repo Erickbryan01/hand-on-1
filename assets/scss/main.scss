@@ -5,26 +5,26 @@
 .sobre-web-design article{
     width: 250px;
 }
-
+stop
 .sobre-web-design article h1 {
-    font-size: 70px;
+    font-size: $font-h1;
     line-height: 80%;
     font-weight: 400;
-    color: #333366;
+    color: $color-secundaria;
 }
 .sobre-web-design article h2,
 .sobre-web-design article p {
-    color: #3399cc;
+    color: $color-primaria;
 }
 
 .sobre-web-design article h2{
-    font-size: 30px;
+    font-size: $font-h2;
     letter-spacing: 2px; 
     line-height: 200%;
 }
 
 .sobre-web-design article p {
-    margin: 10px 0 30px;
+    margin: 10px 0 $font-h2;
 }
 .sobre-web-design figcaption img{
     width: 700px;

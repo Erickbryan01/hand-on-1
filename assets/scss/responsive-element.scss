@@ -14,7 +14,7 @@
 @media (max-width: 915px) {
     body{
         background-position: left -250px;
-        background-color: aqua;
+        background-color: $color-quartenaria;
     }
     .container{
         width: 600px;
@@ -48,7 +48,7 @@
     }
     
     header nav{
-        background-color: #fff;
+        background-color: $color-branco;
         width: 100%;
         padding: 10px 0 20px;
         box-shadow: 0px 10px 30px rgba(0,0,0,0.15)
